@@ -1,1 +1,1 @@
-# e-commerce-django
+# e-commerce-django-js
