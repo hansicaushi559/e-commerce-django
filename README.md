@@ -1,6 +1,5 @@
 # e-commerce-django-js
 
-
 This is a Django full-stack e-commerce application that primarily relies on Django for its functionality. While there is minimal usage of JavaScript to handle click events, the core features of the app encompass full e-commerce capabilities. These features include:
 Product Listings: The app likely provides a catalog of products for users to browse and shop.
 Add to Cart Functionality: Users can add products to their shopping cart, allowing them to accumulate items before proceeding to checkout.
